@@ -1,0 +1,32 @@
+.main-heading{
+    text-align: center;
+    color: rgb(5, 4, 43);
+    font-family:"Indian culture";
+    font-size: 44px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.paragraph{
+    text-align: center;
+    color: #242022;
+    font-weight: normal;
+    font-style: italic;
+    font-size: 22px;
+}
+.card .btn 
+{
+    text-align: center;
+    color: blueviolet;
+
+}
+
+.card{
+    height:100vh;
+    width: 190vh;
+   background-image: url("https://img.freepik.com/free-photo/beautiful-young-woman-wearing-sari_23-2149502978.jpg?w=900&t=st=1706587545~exp=170658814");
+  background-size: cover;
+
+}
+
+
